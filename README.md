@@ -1,3 +1,3 @@
 # Demmo
 
-Discripition 
+Discription 
